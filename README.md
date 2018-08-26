@@ -1,2 +1,2 @@
 # MLan-Cash
-A value card system with RFID cards to bee used at an LAN convention
+A value card system with RFID cards to be used at an LAN convention
